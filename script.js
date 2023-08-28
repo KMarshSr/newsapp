@@ -19,25 +19,30 @@ fetchNews();
 function displayNews(articles) {
     const newsDiv = document.querySelector('#news');
     for (const article of articles) {
+        const image = document.createElement('img');
+        image.setAttribute('class', 'card-img-top');
+        image.setAttribute('style', 'height: 600px');
+        image.src = article.urlToImage;
+        newsDiv.appendChild(image);
+
         const articleDiv = document.createElement('div');
+        articleDiv.setAttribute('class', 'card-body');
+        newsDiv.appendChild(articleDiv);
 
         const title = document.createElement('h4');
+        title.setAttribute('class', 'card-title');
         title.textContent = article.title;
         articleDiv.appendChild(title);
 
-        const image = document.createElement('img');
-        image.src = article.urlToImage;
-        articleDiv.appendChild(image);
-
         const description = document.createElement('p');
+        description.setAttribute('class', 'card-text');
         description.textContent = article.description;
         articleDiv.appendChild(description);
 
         const anchor = document.createElement('a');
+        anchor.setAttribute('class', 'btn btn-warning');
         anchor.setAttribute('href', article.url);
-        anchor.textContent = article.title;
+        anchor.textContent = 'Read More';
         articleDiv.appendChild(anchor);
-
-        newsDiv.appendChild(articleDiv);
     }
 }

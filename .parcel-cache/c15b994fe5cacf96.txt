@@ -952,7 +952,7 @@
 99/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/svgo/lib/svgo.js1692991812283212755 0
 124/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/caniuse-lite/data/features/css3-colors.js1692991812439210391 0
 99/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/svgo/lib/path.js1692991812083215786 0
-85/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/dist/index.html1692996740646955209 0
+85/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/dist/index.html1693228119934761640 0
 110/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/htmlnano/docs/versions.json1692991812247213301 0
 103/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/globals/globals.json1692991811839219487 0
 109/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/@swc/helpers/lib/_throw.js1692991812407210876 0
@@ -2268,7 +2268,7 @@
 100/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/lightningcss/node1692991812027216636 1
 106/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/@parcel/source-map/dist1692991811991217181 1
 121/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/css-tree/lib/syntax/atrule/supports.js1692991812475209845 0
-92/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/dist/index.8cfc62b9.js1692996740642955249 0
+92/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/dist/index.8cfc62b9.js1693228217621954517 0
 114/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/@parcel/transformer-postcss/lib1692991811871219002 1
 126/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/cosmiconfig/dist/canUseDynamicImport.js.map1692991811919218273 0
 110/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/dom-serializer/package.json1692991811879218880 0
@@ -2341,7 +2341,7 @@
 110/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/css-tree/lib/lexer/trace.js1692991812479209784 0
 103/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/@swc/core/index.d.ts1692991812187214210 0
 127/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/@parcel/workers/lib/process/ProcessWorker.js1692991812007216938 0
-80/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/index.html1692994055980020826 0
+80/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/index.html1693228115438799202 0
 123/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/@parcel/reporter-cli/src/bundleReport.js1692991811811219912 0
 114/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/caniuse-lite/data/regions/LS.js1692991812567208451 0
 95/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/css-tree/lib1692991812487209663 1
@@ -3024,7 +3024,7 @@
 143/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/posthtml/node_modules/posthtml-parser/dist/chunk.2UQLUWPH.js1692991811811219912 0
 115/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/@swc/helpers/_/_array_with_holes1692991812439210391 1
 96/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/clone/LICENSE1692991811815219851 0
-96/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/dist/index.8cfc62b9.js.map1692996740642955249 0
+96/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/dist/index.8cfc62b9.js.map1693228217621954517 0
 126/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/caniuse-lite/data/features/css-animation.js1692991812331212028 0
 120/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/caniuse-lite/data/features/flexbox.js1692991812495209542 0
 152/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/config/mix.js1692991812339211907 0
@@ -3243,7 +3243,7 @@
 118/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/css-tree/cjs/syntax/node/Atrule.cjs1692991811863219123 0
 110/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/js-yaml/dist/js-yaml.min.js1692991811991217181 0
 104/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/mdn-data/package.json1692991811975217424 0
-79/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/script.js1692996740470956983 0
+79/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/script.js1693228217593954746 0
 137/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/README.md1692991811807219973 0
 127/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/dom-serializer/lib/esm/foreignNames.d.ts.map1692991811883218820 0
 108/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/node-addon-api/LICENSE.md1692991812007216938 0
@@ -4718,7 +4718,7 @@
 153/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/scope/index.js1692991812311212331 0
 128/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/@parcel/transformer-postcss/lib/loadConfig.js1692991811831219608 0
 127/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/@parcel/transformer-postcss/lib/constants.js1692991811811219912 0
-74/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/dist1692996740646955209 1
+74/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/dist1693228217621954517 1
 114/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/@parcel/transformer-postcss/src1692991811883218820 1
 149/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/@parcel/optimizer-htmlnano/node_modules/csso/lib/replace/Number.js1692991812211213847 0
 125/home/khirymarshall/Desktop/NucampFolder/WebDev/2-Javascript/news-app/node_modules/@swc/helpers/lib/_await_async_generator.js1692991812271212937 0
